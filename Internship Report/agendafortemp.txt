@@ -1,0 +1,32 @@
+backend
+
+//sign up
+//contact us
+//feed back
+//signin(setting/ checking sessions)
+forgot password
+change password
+about us (content)
+place bid
+edit bid
+delete bid
+admin side- approve bid
+view bid
+search
+login failure
+
+
+
+importance
+1 :- sign in , place-edit-view bid
+2 :- feed back,search
+3 :- forgot password, change password , about us, approve bid, delet bid
+
+
+http://www.mkyong.com/java/java-md5-hashing-example/
+
+ctundia@yahoo.com
+32791
+
+
+requirement table yet to be generated
